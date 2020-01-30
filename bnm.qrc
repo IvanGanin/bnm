@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/ok.png</file>
+    <file>images/fail.png</file>
+    <file>images/host.png</file>
+    <file>images/exec.png</file>
+    <file>images/skip.png</file>
+</qresource>
+</RCC>

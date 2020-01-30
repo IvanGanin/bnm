@@ -1,0 +1,8 @@
+<bnm version="1.0" >
+    <host ip="xx.xx.xx.xx" name="Router1" >
+        <param tftpdir="/tftpboot" script="scripts/getrun-tftp.exp" filename="Router1" />
+    </host>
+    <host ip="xx.xx.xx.x" name="Router2" >
+        <param tftpdir="/tftpboot" script="scripts/getrun-tftp-ssh.exp" filename="Router2" />
+    </host>
+</bnm>
